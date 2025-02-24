@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "lora_sender",
-    "project_version":    "c10e72e",
+    "project_version":    "88566ed-dirty",
     "project_path":       "C:/Users/henrik.rudio/OneDrive - LYNX OTIMIZACAO DE PROCESSOS S A/Documentos/GitHub/lora_sender/Firmware/lora_sender",
     "idf_path":           "C:/Users/henrik.rudio/esp/v5.4/esp-idf",
     "build_dir":          "C:/Users/henrik.rudio/OneDrive - LYNX OTIMIZACAO DE PROCESSOS S A/Documentos/GitHub/lora_sender/Firmware/lora_sender/build",
