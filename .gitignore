@@ -1,0 +1,42 @@
+# Ignore arquivos de build e binários
+/build/
+/sdkconfig
+/sdkconfig.old
+/CMakeCache.txt
+
+# Arquivos temporários do CMake e Ninja
+/CMakeFiles/
+/ninja.build
+/ninja.log
+/ninja_deps
+
+# Logs e arquivos de depuração
+*.log
+*.bak
+*.swp
+*.swo
+*.swn
+*.tmp
+
+# Arquivos do VSCode
+.vscode/
+*.code-workspace
+
+# Dependências geradas pelo IDF
+/components/esp-idf/
+/dependencies/
+
+# Arquivos gerados pela compilação
+*.elf
+*.bin
+*.map
+*.hex
+*.o
+*.d
+*.a
+*.h.gch
+
+# Arquivos de flash
+flash_args
+flash_project_args
+partition_table.csv
